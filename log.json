@@ -1,0 +1,15 @@
+[
+    {
+        "red": 29,
+        "yellow": 46,
+        "purple": 27,
+        "blue": 32,
+        "green": 27,
+        "tan": 35,
+        "singleBlocks": 117,
+        "multiBlocks": 25,
+        "biggestBlock": 8,
+        "biggestBlockIndex": 105,
+        "solved": false
+    }
+]
